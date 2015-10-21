@@ -1,4 +1,4 @@
-name: null
+name: neilmillard
 favicon: null
 layout_spectrum: 0.7303566301707178
 typography_spectrum: 0.14255828433670104
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.9761261169333011
+  brandColors:
+    - '#fffffd'
+    - '#cb9ba9'
+    - '#850d2c'
+    - '#3e2d5c'
+    - '#7e6f8f'
+  brandStrength: 0.5
   lightness: 0.9545410322025418
   saturation: 0.48768039606511593
   rhythmicContrast: 0.738577525364235
