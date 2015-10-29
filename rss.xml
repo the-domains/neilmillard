@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[neilmillard]]></title>
         <description><![CDATA[neilmillard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neilmillard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 20:21:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 22:42:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neilmillard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Back to the Future]]></title>
             <description><![CDATA[<article><h1>Back to the Future</h1><p>A comment on what has changed, and what hasn't</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96faf5b1-95fc-4719-a208-37783cbc37c6.jpg"></article>]]></description>
-            <link>undefinedback-to-the-future/index.html</link>
+            <link>https://thegrid.ai/neilmillard/back-to-the-future/index.html</link>
             <guid isPermaLink="false">d3e2384c-7f8d-44e2-8986-ac8f6aa4c317</guid>
-            <pubDate>Tue, 20 Oct 2015 20:21:46 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2015 22:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
