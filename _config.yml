@@ -1,6 +1,7 @@
 name: neilmillard
 favicon: null
 layout_spectrum: 0.24434
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -20,7 +21,7 @@ color:
     - '#850d2c'
     - '#3e2d5c'
     - '#7e6f8f'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.9545410322025418
   saturation: 0.48768039606511593
   rhythmicContrast: 0.738577525364235
