@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "A comment on what has changed, and what hasn't"
-datePublished: '2015-10-20T20:21:46.303Z'
-dateModified: '2015-10-20T20:21:07.183Z'
+datePublished: '2015-10-29T22:42:09.832Z'
+dateModified: '2015-10-29T22:42:02.653Z'
 title: Back to the Future
 authors: []
 publisher:
